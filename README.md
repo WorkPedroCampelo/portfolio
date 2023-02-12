@@ -1,6 +1,6 @@
-#Portfolio ES/EN  
+# Portfolio ES/EN  
 
-##ES
+## ES
 Bienvenido a mi repositorio, mi nombre es Pedro y soy desarrollador web. Este es un lugar para compartir mi trabajo y proyectos relacionados con el desarollo.
 
 Como desarrollador web , estoy aprendiendo constantemente y tratando de mejorar mis habilidades en las últimas tecnologías y tendencias. En este repositorio, encontrarás proyectos que he realizado durante mi aprendizaje, adquiriendo experiencia en HTML, CSS, JavaScript y otras tecnologías web.
@@ -9,7 +9,7 @@ El objetivo es compartir mis proyectos con la comunidad y, si es posible, recibi
 
 Gracias por visitar mi repositorio. Espero que encuentres algo interesante aquí!  
 
-##EN  
+## EN  
 Welcome to my repository, my name is Pedro and I'm a web developer. This is a place to share my work and projects related to web development.
 
 As a web developer, I am constantly learning and trying to improve my skills in the latest technologies and trends. In this repository, you will find projects that I've completed during my learning journey as I gained experience in HTML, CSS, JavaScript, and other web technologies.
