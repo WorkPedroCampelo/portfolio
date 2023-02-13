@@ -17,3 +17,8 @@ As a web developer, I am constantly learning and trying to improve my skills in 
 My goal is to share my projects with the community and receive feedback in order to continue growing and improving. If you find any errors or have any suggestions, feel free to open an issue or submit a pull request. It would be a pleasure to work on improvements from your feedback.
 
 Thank you for visiting my repository. I hope you find something interesting here!
+  
+  Inspiración:  
+  https://mattfarley.ca  
+  https://www.hostinger.com/tutorials/web-developer-portfolio  
+  
